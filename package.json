@@ -1,0 +1,11 @@
+{
+  "name": "voip-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "yealink": "yarn workspace yealink run yealink"
+  },
+  "license": "AGPL",
+  "private": true,
+  "workspaces": ["scripts/*"]
+}

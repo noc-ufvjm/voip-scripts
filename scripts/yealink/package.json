@@ -1,0 +1,13 @@
+{
+  "name": "yealink",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "yealink": "node src"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "puppeteer": "^17.0.0"
+  }
+}
